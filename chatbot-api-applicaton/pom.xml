@@ -9,11 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>cahtbot-api-domain</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>chatbot-api-application</module>
-    </modules>
+    <artifactId>chatbot-api-applicaton</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>

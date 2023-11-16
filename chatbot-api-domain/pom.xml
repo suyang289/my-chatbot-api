@@ -5,11 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>cn.bugstack.ai</groupId>
-        <artifactId>cahtbot-api-domain</artifactId>
+        <artifactId>chatbot-api</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>chatbot-api-application</artifactId>
+    <groupId>cn.bugstack.domain.api</groupId>
+    <artifactId>chatbot-api-domain</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
